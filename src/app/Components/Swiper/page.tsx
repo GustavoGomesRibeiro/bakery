@@ -1,4 +1,3 @@
-// Import Swiper React components
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Parallax, Pagination, Navigation } from "swiper/modules";
 import { Waves } from "@/app/Components/index";
