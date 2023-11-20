@@ -40,6 +40,7 @@ export default function Carousel() {
                   lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
                   lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
                   lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
+                  lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
                 </S.Text>
               </S.Content>
 
